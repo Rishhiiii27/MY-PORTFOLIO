@@ -116,7 +116,7 @@ const HeroBanner = () => {
                 >
                     {/* START */}
                     <div className="flex items-center gap-3">
-                        <div className="text-[80px] font-light">80+</div>
+                        <div className="text-[80px] font-light">10+</div>
                         <div className="leading-[22px]">
                             SUCCESSFULLY
                             <br />
@@ -129,7 +129,7 @@ const HeroBanner = () => {
 
                     {/* START */}
                     <div className="flex items-center gap-3">
-                        <div className="text-[80px] font-light">15+</div>
+                        <div className="text-[80px] font-light">0+</div>
                         <div className="leading-[22px]">
                             YEARS OF
                             <br />
